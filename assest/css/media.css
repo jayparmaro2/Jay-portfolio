@@ -1,0 +1,16 @@
+@media (max-width: 1199px) {}
+@media (max-width: 1024px) {}
+@media (max-width: 991px) {
+    .con-info .responsive-menu{
+        display: flex;
+    }
+    .desktop-menu{
+        display: none;
+    }
+}
+@media (max-width: 767px) {}
+@media (max-width: 575px) {
+    .con-info .contact-btn{
+        display: none;
+    }
+}
