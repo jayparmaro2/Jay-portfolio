@@ -261,6 +261,7 @@ body {
 .main-con .mobile-menu.active{
     visibility: visible;
     opacity: 1;
+    z-index: 99;
     transform: translateZ(0) scale(1) scale(1) translateX(-50%);
 }
 .main-con .mobile-menu .navbar-nav {
