@@ -9,3 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
         mobileMenu.classList.toggle("active");
     });
 });
+
+$('.animate-slide').animatedHeadline({
+    animationType: 'slide'
+});
